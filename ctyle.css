@@ -1,0 +1,22 @@
+img{
+    width: 100;
+}
+p{
+    color: red;
+}
+div{
+    border: 2px solid rgb(255, 0, 0);
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 100px;
+    padding: 35px;
+}
+.texth1{
+    color: red;
+}
+span{
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    text-decoration: overline ;
+}
+
